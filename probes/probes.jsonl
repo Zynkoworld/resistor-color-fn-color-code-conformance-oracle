@@ -1,0 +1,3 @@
+{"input": "black", "expect": 0, "task": "resistor-color", "lang": "python"}
+{"input": "white", "expect": 9, "task": "resistor-color", "lang": "python"}
+{"input": "orange", "expect": 3, "task": "resistor-color", "lang": "python"}
